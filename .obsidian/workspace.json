@@ -1,0 +1,336 @@
+{
+  "main": {
+    "id": "3ce014d6ce178213",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b7b3a25befdf29c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d9f44b492971b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Приведение строку в число.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Приведение строку в число"
+            }
+          },
+          {
+            "id": "957f611dd1a9a4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "string.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "string"
+            }
+          },
+          {
+            "id": "3469eb50b3ff50a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Реляционные vs Нереляционные базы данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реляционные vs Нереляционные базы данных"
+            }
+          },
+          {
+            "id": "3a05b2b31dd25239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "defer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "defer"
+            }
+          },
+          {
+            "id": "a442a185166f3e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "defer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "defer"
+            }
+          },
+          {
+            "id": "9fedd8bbdfc4767d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recover.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "recover"
+            }
+          },
+          {
+            "id": "6af0a06e8f9c385c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recover.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "recover"
+            }
+          },
+          {
+            "id": "34f6bec72cdfd984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структуры и методы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структуры и методы"
+            }
+          },
+          {
+            "id": "6d437fdeceb9781d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go1/Многопоточка/Горутины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Горутины"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9862a9ef3e60c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "501e385caec4c694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054c393952171c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "643ec50f7c8e1e1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "брош",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad6a7c4e7c46f566",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "8b481325ec2ce140",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f21436f0d12aae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b908fb92b0b3e27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "go1/Многопоточка/Горутины.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Горутины"
+            }
+          },
+          {
+            "id": "0c425f1b7a535c35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Планировщик Go.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Планировщик Go"
+            }
+          },
+          {
+            "id": "2616ee7e08a7cbd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3c10777b021f3594",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Планировщик Go.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Планировщик Go"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d437fdeceb9781d",
+  "lastOpenFiles": [
+    "go1/Многопоточка/Аксиомы каналов в Go.md",
+    "go1/Многопоточка/Context.md",
+    "go1/defer.md",
+    "go1/CallStack, стэк вызовов.md",
+    "go1/Конкатенация.md",
+    "go1/String, byte, rune.md",
+    "go1/SOLID.md",
+    "go1/recover.md",
+    "go1/PostgresSQL.md",
+    "go1/embedding and composition.md",
+    "go1/iota.md",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Все про резюме/Промпты LLM для вакансий.md",
+    "go1",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Все про резюме/Примеры резюме.md",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Все про резюме/во дела.md",
+    "go1/escape analysis.md",
+    "go1/Map.md",
+    "go1/Виды auth,Сессии,JWT-токены.md",
+    "go1/Замыкание.md",
+    "go1/Интерфейсы.md",
+    "go1/Планировщик Go.md",
+    "go1/Преобразование типов данных.md",
+    "go1/Преобразование строку в число.md",
+    "go1/Приведение строку в число.md",
+    "go1/Реляционные vs Нереляционные базы данных.md",
+    "go1/Стек и куча.md",
+    "go1/Структуры и методы.md",
+    "go3/obsidian/30 Interests 1/31 Programming/Golang_Import/ООП_struct_methods_interfaces.canvas",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Kafka",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Все про резюме",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Yanki/Возможные вопросы на собесах (Golang)/Горутины",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Yanki/Возможные вопросы на собесах (Golang)/Сборщик мусора",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Yanki/Возможные вопросы на собесах (Golang)/Linux",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Yanki/Возможные вопросы на собесах (Golang)/Память в Go",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Yanki/Возможные вопросы на собесах (Golang)/Kafka",
+    "go3/obsidian/30 Interests 1/31 Programming/Go/База для собесов/Yanki/Возможные вопросы на собесах (Golang)/Указатели",
+    "go2/Golang/Pasted image 20251029095452.png",
+    "go2/Golang/Pasted image 20251029095221.png",
+    "go2/Golang/ООП_struct_methods_interfaces.canvas",
+    "go2/Golang/Pasted image 20251108114949.png",
+    "go2/Golang/Pasted image 20251029103541.png",
+    "go2/Golang/Pasted image 20251006211802.png",
+    "go2/Golang/Pasted image 20251029103143.png",
+    "go2/Golang/Pasted image 20251029103344.png",
+    "go2/Golang/Pasted image 20251029103131.png",
+    "go2/Golang/Pasted image 20251029102615.png",
+    "go2/Golang/Pasted image 20251029102551.png"
+  ]
+}
